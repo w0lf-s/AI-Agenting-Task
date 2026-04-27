@@ -1,0 +1,42 @@
+[
+  {
+    "message": "My payment got deducted but service is not activated",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "message": "App crashes every time I login",
+    "category": "Technical Issue",
+    "priority": "High"
+  },
+  {
+    "message": "How to change my email address?",
+    "category": "Account",
+    "priority": "Low"
+  },
+  {
+    "message": "I was charged twice for the same subscription",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "message": "The dashboard is loading very slowly since yesterday",
+    "category": "Technical Issue",
+    "priority": "Medium"
+  },
+  {
+    "message": "Can I upgrade my plan to Pro?",
+    "category": "General Inquiry",
+    "priority": "Low"
+  },
+  {
+    "message": "I can't reset my password — the email never arrives",
+    "category": "Account",
+    "priority": "High"
+  },
+  {
+    "message": "When will the iOS app support dark mode?",
+    "category": "General Inquiry",
+    "priority": "Low"
+  }
+]

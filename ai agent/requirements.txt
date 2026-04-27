@@ -1,0 +1,3 @@
+flask>=3.0.0
+# google-generativeai  # optional: only needed if you prefer the official SDK
+# Gemini API calls use Python's built-in urllib — no extra packages required
